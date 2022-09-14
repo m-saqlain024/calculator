@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.text-center{
+    text-align: center;
+height: 8vh;
+margin-top: 2%;
+color: #592689;
+
+}
+
+    .container{
+        background-color: rgb(106, 77, 77);
+    max-width: 23vw;
+border: 2px solid black;
+border-radius: 10px;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+} 
+button{
+    margin: 3px ;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+}
+
+.input{
+    font-size: 22px;
+    margin: 0;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+#demo{
+    margin-top: 2%;
+color: red;    
+text-decoration: underline;
+padding: 5px;
+
+text-align: center;    
+}
